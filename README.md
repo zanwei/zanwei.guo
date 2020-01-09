@@ -1,2 +1,2 @@
 # zanweiguo.github.io
-Website
+This is my cut website.
