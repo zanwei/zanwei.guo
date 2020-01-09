@@ -115,3 +115,7 @@ header{
     font-size: 0.5em;
     letter-spacing: initial;
 }
+
+.main {
+    line-height: 1.2em;
+}
