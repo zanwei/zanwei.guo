@@ -1,7 +1,7 @@
 @media (min-width:1920px) {
     .big {
         font-family: "CircularStd";
-        font-size: 36px;
+        font-size: 3vw;
         line-height: 1.4em;
 
     }
@@ -10,14 +10,14 @@
 @media (max-width:760px) {
     .big {
         font-family: "CircularStd";
-        font-size: 5vw;
+        font-size: 5.3vw;
         line-height: 1.35em;
     }
 }
 
 :root {
     font-family: "CircularStd";
-    font-size: 2.5vw;
+    font-size: 2.8vw;
     letter-spacing: -.045em;
     line-height: 1.2em;
     -webkit-text-size-adjust: 100%;
