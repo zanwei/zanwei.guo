@@ -119,3 +119,7 @@ header{
 .main {
     line-height: 1.2em;
 }
+
+.custom {
+    cursor: url(image/cursor.svg), auto;
+  }
