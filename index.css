@@ -15,6 +15,16 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
     animation-duration: .85s;
 }
 
+.name {
+    transform: translateX(45%);
+    top: 20%;
+    position: absolute;
+    letter-spacing: 0;
+    font-weight: 500;
+    font-size: 1.5vw;
+    text-decoration: none;
+}
+
 
 
 @keyframes fadeInUp {
@@ -67,16 +77,6 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
     position: relative;
 }
     
-}
-
-.name {
-    transform: translateX(45%);
-    top: 20%;
-    position: absolute;
-    letter-spacing: 0;
-    font-weight: 500;
-    font-size: 1vw;
-    text-decoration: none;
 }
 
 .about {
