@@ -41,6 +41,7 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
         transform: translateX(15%);
         top: 25%;
         position: absolute;
+        font-size: 1.5vw;
     }
     
 }
@@ -56,6 +57,7 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
         transform: translateX(15%);
         top: 25%;
         position: absolute;
+        font-size: 1.5vw;
     }
     .gif {
         width: 3vw;
