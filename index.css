@@ -70,8 +70,8 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
 }
 
 .name {
-    transform: translateX(55%);
-    top: 25%;
+    transform: translateX(45%);
+    top: 20%;
     position: absolute;
     letter-spacing: 0;
     font-weight: 500;
