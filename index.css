@@ -58,7 +58,7 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
         line-height: -5.5rem;
     }
     .name {
-        transform: translateX(45%);
+        transform: translateX(43%);
         top: 25%;
         position: absolute;
         font-size: 4vw;
