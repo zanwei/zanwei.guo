@@ -58,14 +58,14 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
         line-height: -5.5rem;
     }
     .name {
-        transform: translateX(35%);
+        transform: translateX(45%);
         top: 25%;
         position: absolute;
         font-size: 4vw;
     }
     .gif {
-        width: 10vw;
-        height: 10vw;
+        width: 5vw;
+        height: 5vw;
     }
     .about {
     position: relative;
@@ -82,7 +82,7 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
         transform: translateX(55%);
         top: 25%;
         position: absolute;
-        font-size: 1.5vw;
+        font-size: 2vw;
     }
     
 }
