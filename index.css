@@ -73,26 +73,6 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
     
 }
 
-
-
-@media screen and (max-width:1024px) {
-    .name {
-        transform: translateX(43%);
-        top: 25%;
-        position: absolute;
-        font-size: 4vw;
-    }
-    .gif {
-        width: 6vw;
-        height: 6vw;
-    }
-    .about {
-    position: relative;
-}
-    
-}
-
-
 @media screen and (min-width:740px) {
     .Title {
         font-size: 2.5vw;
