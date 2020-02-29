@@ -84,6 +84,10 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
         position: absolute;
         font-size: 2vw;
     }
+    .gif {
+        width: 8vw;
+        height: 8vw;
+    }
     
 }
 
