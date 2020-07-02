@@ -119,6 +119,10 @@ li {
     letter-spacing: -.045em;
 }
 
+li a {
+    text-decoration: none;
+}
+
 .underline {
     position: relative;
     white-space: nowrap;
@@ -135,4 +139,18 @@ li {
     height: 4px;
     background: #D6D7D8;
     z-index: -1;
+}
+
+.cool-link::after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 2px;
+    background: rgb(21, 238, 209);
+    transition: width .3s;
+}
+
+.cool-link:hover::after {
+    width: 100%;
+    transition: width .3s;
 }
