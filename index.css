@@ -106,8 +106,13 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
     font-weight: 500;
 }
 
+.list-first {
+    padding-left: 0;
+}
+
 li {
     display: flex;
+    padding-left: 1.3vw;
     padding-top: 2em;
     font-size: 1.2em;
     list-style-type: disc;
