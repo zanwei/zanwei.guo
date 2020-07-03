@@ -65,6 +65,7 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
         font-size: 4vw;
     }
     .gif {
+        margin-top: 10px;
         width: 8vw;
         height: 8vw;
     }
