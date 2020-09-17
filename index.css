@@ -200,6 +200,6 @@ li a {
     opacity: .5;
 }
 
-.content:hover ~ .cursor {
+.content:hover ~ .cursor2 {
     opacity: 0;
 } 
