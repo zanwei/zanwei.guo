@@ -183,8 +183,8 @@ li a {
 
 .cursor2 {
     position: fixed;
-    width: 15px;
-    height: 15px;
+    width: 10px;
+    height: 10px;
     background-color: #A9A9A9;
     border-radius: 50%;
     left: 0;
