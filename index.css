@@ -194,7 +194,7 @@ li a {
     transition: .15s;
 }
 
-/* .content:hover ~ .cursor {
+.content:hover ~ .cursor {
     transform: translate(-50%, -50%) scale(1.5);
     background-color: #A9A9A9;
     opacity: .5;
@@ -202,4 +202,4 @@ li a {
 
 .content:hover ~ .cursor {
     opacity: 0;
-}  */
+} 
