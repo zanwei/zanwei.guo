@@ -1,6 +1,6 @@
 
 a {color: #111111;}
-a:hover {cursor: ne-resize; color: #D6D7D8;}
+a:hover {color: #D6D7D8;}
 
 html, body {
     cursor: none;
@@ -170,8 +170,8 @@ li a {
 
 .cursor {
     position: fixed;
-    width: 70px;
-    height: 70px;
+    width: 80px;
+    height: 80px;
     border: 1px solid #15EED1;
     border-radius: 50%;
     left: 0;
@@ -183,8 +183,8 @@ li a {
 
 .cursor2 {
     position: fixed;
-    width: 10px;
-    height: 10px;
+    width: 15px;
+    height: 15px;
     background-color: #A9A9A9;
     border-radius: 50%;
     left: 0;
