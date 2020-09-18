@@ -19,13 +19,13 @@
 
 a {color: #111111;}
 
-.root:hover ~ .cursor {
+.a:hover ~ .cursor {
     transform: translate(-50%, -50%) scale(2);
     background-color: #A9A9A9;
     opacity: .5;
 }
 
-.root:hover ~ .cursor2 {
+.a:hover ~ .cursor2 {
     opacity: 0;
 }
 
