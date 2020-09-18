@@ -13,20 +13,19 @@
     animation-name: fadeInUp;
     -webkit-animation-name: fadeInUp;
     animation-duration: .85s;
-    cursor: pointer;
 }
 
 
 
 a {color: #111111;}
 
-.Title:hover ~ .cursor {
+.root:hover ~ .cursor {
     transform: translate(-50%, -50%) scale(2);
     background-color: #A9A9A9;
     opacity: .5;
 }
 
-.Title:hover ~ .cursor2 {
+.root:hover ~ .cursor2 {
     opacity: 0;
 }
 
