@@ -1,10 +1,22 @@
 
-a {color: #111111;}
-/* a:hover {color: #D6D7D8;} */
-
 html, body {
     cursor: none;
 }
+
+a {color: #111111;}
+
+a:hover {color: #D6D7D8;}
+
+a:hover ~ .cursor {
+    transform: translate(-50%, -50%) scale(2);
+    background-color: #A9A9A9;
+    opacity: .5;
+}
+
+a:hover ~ .cursor2 {
+    opacity: 0;
+} 
+
 
 
 .cursor {
@@ -17,7 +29,7 @@ html, body {
     top: 0;
     pointer-events: none;
     transform: translate(-50%, -50%);
-    transition: .1s;
+    transition: .05s;
 }
 
 .cursor2 {
@@ -30,18 +42,9 @@ html, body {
     top: 0;
     pointer-events: none;
     transform: translate(-50%, -50%);
-    transition: .15s;
+    transition: .1s;
 }
 
-a:hover ~ .cursor {
-    transform: translate(-50%, -50%) scale(2);
-    background-color: #A9A9A9;
-    opacity: .5;
-}
-
-a:hover ~ .cursor2 {
-    opacity: 0;
-} 
 
 
 
