@@ -37,7 +37,6 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
 }
 
 
-
 @keyframes fadeInUp {
     from {
       opacity: 0;
@@ -107,8 +106,6 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
     }
 
 }
-
-
 
 .about {
     position: relative;
