@@ -79,6 +79,9 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
         font-size: 3vw;
     }
     
+    .li {
+        font-size: 1em;
+    }
 }
 
 @media screen and (min-width:740px) {
