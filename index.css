@@ -77,10 +77,10 @@ a:hover {cursor: ne-resize; color: #D6D7D8;}
     .about {
     position: relative;
 }   
-    /* #age {
+    #age {
         font-family: "SourceCodePro";
         letter-spacing: -.2rem;
-} */
+}
 }
 
 @media screen and (min-width:740px) {
