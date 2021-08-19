@@ -3,7 +3,7 @@
 
 setInterval(function() {
     var now = new Date();
-    var bday = new Date(1995, 08, 20);
+    var bday = new Date(1995, 07, 20);
     var diff = now - bday;
     document.getElementById("age").innerText = (diff/366/3600/24/1000).toString().substring(0, 14).padEnd(14, '0');
 }, 50)
