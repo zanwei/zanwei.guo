@@ -8,8 +8,6 @@ setInterval(function() {
     document.getElementById("age").innerText = (diff/366/3600/24/1000).toString().substring(0, 14).padEnd(14, '0');
 }, 50)
 
-
-
 // Google Track-------------------------------------
 
 window.dataLayer = window.dataLayer || [];
