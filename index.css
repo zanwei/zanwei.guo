@@ -1,8 +1,8 @@
-a {color: #000;}
+a {color: hsl(0, 0%, 0%);}
 
 a:hover {
     cursor: ne-resize;
-    color: #FF0C0C;
+    color: hsl(0, 100%, 52%);
 }
 
 
@@ -12,7 +12,7 @@ a:hover {
     font-size: 5em;
     font-family: "Domaine Sans Display Medium", -apple-system, Roboto, 'Open Sans', 'Helvetica Neue', serif;
     letter-spacing: -.02em;
-    background-image: linear-gradient(209.17deg, #15EED1 12.26%, rgba(255, 255, 255, 0) 58.8%);
+    background-image: linear-gradient(209.17deg, hsl(172, 86%, 51%) 12.26%, hsla(0, 0%, 100%, 0) 58.8%);
     height: 100vh;
     background-repeat: no-repeat;
     animation-name: fadeInUp;
@@ -21,11 +21,11 @@ a:hover {
 }
 
 ::-moz-selection {
-    background: #FF0C0C;
+    background: hsl(0, 100%, 52%);
   }
   
       ::selection {
-    background: #FF0C0C;
+    background: hsl(0, 100%, 52%);
   }
 
 
@@ -37,7 +37,7 @@ a:hover {
 .small-text {
     font-family: "Domaine Sans Display Medium", -apple-system, Roboto, 'Open Sans', 'Helvetica Neue', serif;
     font-size: .5em;
-    color: rgba(0, 0, 0, 1)
+    color: hsl(0, 0%, 0%)
 }
 
 img {
@@ -80,7 +80,7 @@ img {
     right: 0;
     left: 0;
     height: 2px;
-    background: #000;
+    background: hsl(0, 0%, 0%);
     z-index: -1;
 }
 
@@ -116,7 +116,7 @@ img {
     right: 0;
     left: 0;
     height: 2px;
-    background: #000;
+    background: #000000;
     z-index: -1;
 }
 
@@ -133,7 +133,7 @@ img {
     right: 0;
     left: 0;
     height: 2px;
-    background: #000;
+    background: hsl(0, 0%, 0%);
     z-index: -1;
 }
 
@@ -298,7 +298,7 @@ li a {
     right: 0;
     left: 0;
     height: 2px;
-    background: #000;
+    background: hsl(0, 0%, 0%);
     z-index: -1;
 }
 
