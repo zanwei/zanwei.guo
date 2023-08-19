@@ -137,6 +137,24 @@ img {
     z-index: -1;
 }
 
+#location-6 {
+    position: relative;
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+#location-6:after {
+    content: "";
+    position: absolute;
+    bottom: .2em;
+    right: 0;
+    left: 0;
+    height: 2px;
+    background: hsl(0, 0%, 0%);
+    z-index: -1;
+}
+
+
 
 
 @media screen and (max-width:1260px) {
