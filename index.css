@@ -120,7 +120,7 @@ img {
     z-index: -1;
 }
 
-#location-5 {
+/* #location-5 {
     position: relative;
     white-space: nowrap;
     text-decoration: none;
@@ -135,7 +135,7 @@ img {
     height: 2px;
     background: hsl(0, 0%, 0%);
     z-index: -1;
-}
+} */
 
 #location-6 {
     position: relative;
